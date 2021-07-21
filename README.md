@@ -6,8 +6,7 @@
 ![Искажённые варианты пятёрки](https://github.com/Luzinsan/my_first_neuroset/blob/ff1c69588ce182c493bc6fb78bd63ab3e568bf09/5digits.png)
     Вот и сам результат.
     
-    [1, 1, 1, 2, 0, -4, 1, 1, 1, -4, 0, 1, 1, 1, 1]
-    
+    [1, 1, 1, 1, 0, -3, 1, 1, 1, -3, 0, 1, 1, 1, 1]
     0 это 5?  False
     1 это 5?  False
     2 это 5?  False
